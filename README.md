@@ -1,1 +1,1 @@
-# API-Criptomoedas
+# Requisição de dados de uma API de criptomoedas
